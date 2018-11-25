@@ -1,6 +1,6 @@
-package com.ucloudlink.dubbox.service.impl;
+package com.camp.dubbox.service.impl;
 
-import com.ucloudlink.dubbox.service.UserService;
+import com.camp.dubbox.service.UserService;
 
 public class UserServiceImpl implements UserService
 {

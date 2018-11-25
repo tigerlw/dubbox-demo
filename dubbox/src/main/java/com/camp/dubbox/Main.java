@@ -1,4 +1,4 @@
-package com.ucloudlink.dubbox;
+package com.camp.dubbox;
 
 public class Main 
 {

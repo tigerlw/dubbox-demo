@@ -1,8 +1,8 @@
-package com.ucloudlink.dubbox;
+package com.camp.dubbox;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.ucloudlink.dubbox.service.UserService;
+import com.camp.dubbox.service.UserService;
 
 public class Main 
 {

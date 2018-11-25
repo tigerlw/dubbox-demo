@@ -16,7 +16,7 @@
 
     
     
-    <dubbo:reference id="userService" interface="com.ucloudlink.dubbox.service.UserService"/>
+    <dubbo:reference id="userService" interface="com.camp.dubbox.service.UserService"/>
     
     
  

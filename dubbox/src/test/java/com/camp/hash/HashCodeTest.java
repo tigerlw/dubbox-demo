@@ -1,4 +1,4 @@
-package com.ucloudlink.hash;
+package com.camp.hash;
 
 public class HashCodeTest 
 {

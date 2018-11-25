@@ -16,9 +16,9 @@
 
     
     
-    <dubbo:service interface="com.ucloudlink.dubbox.service.UserService" ref="userService" loadbalance="consistenthash"/>
+    <dubbo:service interface="com.camp.dubbox.service.UserService" ref="userService" loadbalance="consistenthash"/>
     
-    <bean id="userService" class="com.ucloudlink.dubbox.service.impl.UserServiceImpl" />
+    <bean id="userService" class="com.camp.dubbox.service.impl.UserServiceImpl" />
     
  
     
